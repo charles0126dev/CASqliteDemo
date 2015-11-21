@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E961F2570FC169943531B9BF82E4CE6A04DCFC6A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E961F2570FC169943531B9BF82E4CE6A04DCFC6A" : 0,
+    "17C7BAF8F3E2B8CCE4A2BA07FF90C70F99CC0C09" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "64E8B635-BDBE-4157-BAD3-60D0F6BF4EDD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E961F2570FC169943531B9BF82E4CE6A04DCFC6A" : "CASqliteDemo\/",
+    "17C7BAF8F3E2B8CCE4A2BA07FF90C70F99CC0C09" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CASqliteDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CASqliteDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charles0126dev\/CASqliteDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17C7BAF8F3E2B8CCE4A2BA07FF90C70F99CC0C09"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charles0126dev\/CASqliteDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E961F2570FC169943531B9BF82E4CE6A04DCFC6A"
+    }
+  ]
+}
